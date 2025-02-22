@@ -7,7 +7,7 @@ num1 = 15
 num2 = 12
 
 # Adding two nos
-sum = num1 + num2
+sum = num1 + num2 + num3
 
 # printing values
-print("Sum of", num1, "and", num2 , "is", sum)
+print("Sum of", num1, "and", num2 , num "is", sum)
