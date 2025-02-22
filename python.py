@@ -2,12 +2,13 @@
 age = 10
 print (age)
  
- # Python3 program to add two numbers
+ # Python3 program to add three numbers
 num1 = 15
 num2 = 12
+num4 =45 
 
-# Adding two nos
-sum = num1 + num2 + num3
+# Adding three numbers
+sum = num1 + num2 + num4
 
-# printing values
-print("Sum of", num1, "and", num2 , num "is", sum)
+# Printing values
+print("Sum of", num1, "and", num2, "and", num4, "is", sum)
