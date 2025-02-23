@@ -1,3 +1,3 @@
 # this is my second repository
-# where i learn init, push and pull
-# i am revising pr 
+# in this i am learning another commands
+# i am revising pr
